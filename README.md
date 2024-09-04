@@ -1,6 +1,6 @@
-## Hi there 👋
+# Hi there 👋
 
-I'm Full-Stack WEB Developer  
+I'm Sir Full-Stack WEB Developer base on Python Django\FastAPI and Java Script Vue.
 
 ### 🛠 Some fancy badges
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
@@ -20,3 +20,5 @@ I'm Full-Stack WEB Developer
 ![redis](https://img.shields.io/badge/redis%20-%23CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![docker](https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white)
  
+# Links
+- [my GIST](https://gist.github.com/alex-deus)
