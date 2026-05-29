@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Sir Full-Stack WEB Developer base on Python Django\FastAPI and Java Script Vue.
+Senior Full-Stack Web Developer specializing in Python (Django, FastAPI) and JavaScript (Vue).
 
 ### 🛠 Some fancy badges
 ![python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
